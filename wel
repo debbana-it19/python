@@ -1,0 +1,11 @@
+
+#include<stdio.h>
+int main ()
+{
+char str[20];
+print ("enter the name: ");
+gets(str[20]);
+printf("welcome %s",str[20]);
+return 0;
+}
+
